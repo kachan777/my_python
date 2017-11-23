@@ -2,7 +2,7 @@
 import slackweb
 import urllib
 
-SLACK_POST_URL = "https://hooks.slack.com/services/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"
+SLACK_POST_URL = "https://hooks.slack.com/services/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 def lambda_handler(event, context):
     print(event)
